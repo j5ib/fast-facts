@@ -1,4 +1,4 @@
-# eCash (ECX) Integration Guide
+p# eCash (ECX) Integration Guide
 
 Last updated: **2026-10-27**, before the mainnet fork (Bitcoin tip 973,441, 287 blocks to go). This guide covers **mainnet**. Alphanet and betanet are covered in [testnets/](testnets/README.md).
 
